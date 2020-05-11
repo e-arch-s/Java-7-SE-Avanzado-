@@ -1,6 +1,6 @@
 package com.earch.cursos.javase7;
 
-public class App 
+public class AppRenombre
 {
     public static void main( String[] args )
     {
