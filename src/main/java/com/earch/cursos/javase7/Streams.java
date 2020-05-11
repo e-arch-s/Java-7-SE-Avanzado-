@@ -8,7 +8,7 @@ public class Streams {
 
 	public static void main(String[] args) {
 		
-		List<String> lstAbc = new ArrayList<>();
+		List<String> lstAbc = new ArrayList<>();	
 		lstAbc.add("I");
 		lstAbc.add("J");
 		lstAbc.add("K");
